@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: configMap
+metadata:
+  name: nginx-config
+data:
+  course: "kubernetes"
+  tainer: "swathi"
+  duration: "2hrs"
